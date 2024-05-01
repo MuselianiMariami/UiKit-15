@@ -17,7 +17,7 @@ back ღილაკი </br>
 1 ცალი ღილაკი(sign-out) </br>
 **</br>**
 
-**Application Flow: -**
+<h3> Application Flow: - </h3>
 
 *Login page - დან sign-up ღილაკზე დაჭერის შემდეგ უნდა გადადიოდეს  Registration page-ზე. </br>
 *Registration page-ზე  sign-up ღილაკზე დაჭერისას უნდა მოწმდებოდეს რომ ყველა ველი შევსებულია. </br>
