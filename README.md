@@ -36,7 +36,7 @@ back ღილაკი </br>
 <img src="https://github.com/MuselianiMariami/UiKit-15/assets/137683336/857e2b88-2a3f-437e-8943-8055b0f04276"  width="300">
   <span>...</span>
 <img src="https://github.com/MuselianiMariami/UiKit-15/assets/137683336/023f9e10-1d2b-40c7-a0cd-dce8ac1d894a"  width="300">
-   <span>...</span>
+</br>
 <img src="https://github.com/MuselianiMariami/UiKit-15/assets/137683336/897a9074-33ca-4951-9775-f99f36e96137"  width="300">
    <span>...</span>
 <img src="https://github.com/MuselianiMariami/UiKit-15/assets/137683336/c9618f06-b2e3-4a14-9f44-7b51f6be5030"  width="300">
